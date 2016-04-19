@@ -1,5 +1,6 @@
 
-.section1 { border-radius: 25px;}
+.section1 { border-radius: 25px;
+	    position:fixed;}
 	.family     {position: absolute;
                     width:100%;
                     left: 0;}
