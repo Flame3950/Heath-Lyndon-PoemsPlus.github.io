@@ -108,7 +108,7 @@
 }
 
 #menu li {
-    float: right;
+    float: left;
     padding: 0 0 10px 0;
     position: relative;
 }
@@ -119,7 +119,7 @@
     padding: 0 25px;
     color: #999;
     text-transform: uppercase;
-    font: bold 12px/25px Arial, Helvetica;
+    font: bold 12px/25px Algerian, Helvetica;
     text-decoration: none;
     text-shadow: 0 1px 0 #000;
 }
