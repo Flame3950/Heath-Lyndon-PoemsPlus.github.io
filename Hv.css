@@ -4,7 +4,7 @@
 	     position:fixed;
 	     z-index:10;
 }
-	.family     {position: absolute;
+	.family     {position: relative;
                     width:100%;
                     left: 0;
 		    z-index:1;}
@@ -13,20 +13,20 @@
 	                width:50%;
 			border-radius: 20px;
 		        position: absolute;
-		        z-index:0;}
+		        z-index:1;}
 		        
 		        
      .generosity {width:50%;
                   border-radius: 20px;
 	          margin-left:675px;
      	          position: absolute;
-     	          z-index:0;}
+     	          z-index:1;}
      	          
 
 	  .unique	 { width:50%;
 			  border-radius: 20px;
-	  	          position: absolute;
-	  	          z-index:0;}	
+	  	          position: relative;
+	  	          z-index:1;}	
 					
 					
 					
