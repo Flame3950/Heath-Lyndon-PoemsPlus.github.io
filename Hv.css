@@ -108,7 +108,7 @@
 }
 
 #menu li {
-    float: left;
+    float: right;
     padding: 0 0 10px 0;
     position: relative;
 }
