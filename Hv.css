@@ -97,13 +97,12 @@
 
 /* Main */
 #menu {
-    width: 100%;
+    border-radius:25px;
     margin: 0;
     padding: 0px 0 0 0;
     list-style: none;  
     background-color: #111;
     background-image: linear-gradient(#444, #111);
-    border-spacing:0;
     box-shadow: 0 2px 1px #9c9c9c;
     padding-top:20px;
 }
