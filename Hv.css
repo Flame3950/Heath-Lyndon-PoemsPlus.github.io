@@ -4,7 +4,7 @@
 	     position:fixed;
 	     z-index:10;
 }
-	.family     {position: relative;
+	.family     {position: static;
                     width:100%;
                     left: 0;
 		    z-index:1;}
@@ -12,20 +12,20 @@
 	.third		   {background-color:#FFD700;
 	                width:50%;
 			border-radius: 20px;
-		        position: absolute;
+		        position: static;
 		        z-index:1;}
 		        
 		        
      .generosity {width:50%;
                   border-radius: 20px;
 	          margin-left:675px;
-     	          position: absolute;
+     	          position: static;
      	          z-index:1;}
      	          
 
 	  .unique	 { width:50%;
 			  border-radius: 20px;
-	  	          position: relative;
+	  	          position: static;
 	  	          z-index:1;}	
 					
 					
