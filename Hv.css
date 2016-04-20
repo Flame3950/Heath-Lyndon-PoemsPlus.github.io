@@ -46,7 +46,7 @@
     padding: 5px 9px;
     height: 23px;
     width: 380px;
-    border: 1px solid #a4c3ca;
+    border: 1px solid #f1f1f1;
     font: normal 13px 'trebuchet MS', arial, helvetica;
     background: #f1f1f1;
     border-radius: 50px 3px 3px 50px;
@@ -114,7 +114,7 @@
 }
 
 #menu a {
-    float: right;
+    float: left;
     height: 25px;
     padding: 0 25px;
     color: #999;
