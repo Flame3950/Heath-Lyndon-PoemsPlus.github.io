@@ -2,9 +2,9 @@
 		        position: static;
 		        z-index:1;
 		        background:#676470;
-                        transition:all 0.6s ease;
                         height:298px;
 	                width:483px;
+	                transition:all 0.6s ease;
 }
 		        
 .fade
