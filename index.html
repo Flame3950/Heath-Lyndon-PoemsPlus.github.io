@@ -14,14 +14,18 @@
  
  <script type="text/javascript" src="js/jquery-2.2.3.js">
     $(document).ready(function() {
-        $("body").css("display", "none");
+            $("body.body").css("display", "none");
+            $("body.body").fadeIn(2000);
+            
+            $("a.transition").click(function(event){
+        event.preventDefault();
+        linkLocation = this.href;
+        $("body.body").fadeOut(1000, redirectPage);      
     });
-</script>
- 
- <script type="text/javascript" src="js/jquery-2.2.3.js">
-    $(document).ready(function() {
-            $("body").css("display", "none");
-            $("body").fadeIn(2000);
+         
+    function redirectPage() {
+        window.location = linkLocation;
+    }
     });
 </script>
  
@@ -60,7 +64,7 @@
  
  
  
-    <body style="background-image:url(http://m.c.lnkd.licdn.com/mpr/mpr/p/5/005/06a/2cd/30e8484.jpg)">
+    <body class="body" style="background-image:url(http://m.c.lnkd.licdn.com/mpr/mpr/p/5/005/06a/2cd/30e8484.jpg)">
 	
 	<div class="section1" style="background-image:url(https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTF02Ar_RSZ_mCHjmBpR7YVqPh8RsbENwyUgzRo9KuQ4ZKOkbYn)">
 
