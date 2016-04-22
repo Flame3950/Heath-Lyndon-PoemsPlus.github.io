@@ -1,11 +1,11 @@
-.third		   {background-color:#00FFFF;
-	                width:50%;
-			border-radius: 20px;
+.third		   {    border-radius: 20px;
 		        position: static;
 		        z-index:1;
 		        background:#676470;
                         transition:all 0.6s ease;
-                        height:298px;}
+                        height:298px;
+	                width:483px;
+}
 		        
 .fade
 {
