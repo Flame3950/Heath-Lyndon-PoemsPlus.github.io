@@ -2,10 +2,8 @@
 	                width:50%;
 			border-radius: 20px;
 		        position: static;
-		        z-index:1;
-	                box-shadow: 0 10px 100px rgba(0, 0, 0, 0.12), 0 10px 100px rgba(0, 0, 0, 0.24);
-	                transform: rotateX(-90deg) translateZ(100px);
-	                perspective: 1000px;}
+		        z-index:1;}
+	                
 		        
 		        
      .generosity {width:50%;
