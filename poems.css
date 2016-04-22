@@ -1,10 +1,12 @@
 .third		   {    border-radius: 20px;
 		        position: static;
 		        z-index:1;
-		        background:#676470;
-                        height:298px;
-	                width:483px;
-	                transition:all 0.6s ease;
+		        width:50%;}
+		        
+		     .third {background:#676470;
+                             height:298px;
+	                     width:483px;
+	                     transition:all 0.6s ease;
 }
 		        
 .fade
