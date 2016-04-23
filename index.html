@@ -7,27 +7,22 @@
  <meta charset="utf-8" name="ROBOTS" content="NOINDEX, NOFOLLOW" />
  <title> Heath-Vonn Styles</title>
  
-
+ <link rel="stylesheet" href="animate.css">
  <link rel="stylesheet" type="text/css" href="Hv.css">
  
-
+<style>
  
- <script type="text/javascript" src="js/jquery-2.2.3.js">
-    $(document).ready(function() {
-            $("body.body").css("display", "none");
-            $("body.body").fadeIn(2000);
-            
-            $("a.transition").click(function(event){
-        event.preventDefault();
-        linkLocation = this.href;
-        $("body.body").fadeOut(1000, redirectPage);      
-    });
-         
-    function redirectPage() {
-        window.location = linkLocation;
-    }
-    });
-</script>
+ .body {animation-name:pulse;
+        animation-duration:6s;
+ }
+	
+	
+	
+	
+</style>
+ 
+ 
+
  
  </head>
  
