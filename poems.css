@@ -1,8 +1,8 @@
-.third		   {    border-radius: 20px;
-		        position: static;
-		        z-index:1;
-		        width:50%;
-	                background-color:#D3D3D3;}
+.third {    border-radius: 20px;
+            position: static;
+            z-index:1;
+	    width:50%;
+	    background-color:#red;}
 		        
 		     
 	                
