@@ -12,7 +12,8 @@
                   border-radius: 20px;
 	          margin-left:675px;
      	          position: static;
-     	          z-index:1;}
+     	          z-index:1;
+                  background-color:#002AD5;}
      	          
 
 	  .unique	 { width:50%;
@@ -24,7 +25,9 @@
                   border-radius: 20px;
 	          margin-left:675px;
      	          position: static;
-     	          z-index:1;}	  	          
+     	          z-index:1;
+	          background-color:#F04303;
+}	  	          
 
 
 body > div
