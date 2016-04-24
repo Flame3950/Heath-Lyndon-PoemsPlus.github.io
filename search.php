@@ -20,7 +20,7 @@
 // ----------------------------------------------------------------------------
 
 if(strcmp('4.2.0', phpversion()) > 0)
-	die("This version of the Zoom search script requires PHP 4.2.0 or higher.<br />You are currently using: PHP " . phpversion() . "<br />");
+	die("This version of the Zoom search script requires PHP 4.2.0 or higher.<br />You are currently using: PHP-5.6.20 " . phpversion() . "<br />");
 
 $SETTINGSFILE = dirname(__FILE__)."/settings.php";
 $WORDMAPFILE = dirname(__FILE__)."/zoom_wordmap.zdat";
