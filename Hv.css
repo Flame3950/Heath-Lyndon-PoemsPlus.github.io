@@ -9,8 +9,7 @@
                     left: 0;
 		    z-index:1;}
 		    
-	.third		   {background-color:#FFD700;
-	                width:50%;
+	.third	 {      width:50%;
 			border-radius: 20px;
 		        position: static;
 		        z-index:1;}
