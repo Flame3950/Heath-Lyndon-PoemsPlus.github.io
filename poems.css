@@ -1,8 +1,7 @@
 .third {    border-radius: 20px;
             position: static;
             z-index:1;
-	    width:50%;
-	    background-color:red;}
+	    width:50%;}
 		        
 		     
 	                
@@ -12,8 +11,7 @@
                   border-radius: 20px;
 	          margin-left:675px;
      	          position: static;
-     	          z-index:1;
-                  background-color:#002AD5;}
+     	          z-index:1;}
      	          
 
 	  .unique	 { width:50%;
