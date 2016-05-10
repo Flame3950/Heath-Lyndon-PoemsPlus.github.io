@@ -23,9 +23,8 @@
                   border-radius: 20px;
 	          margin-left:675px;
      	          position: static;
-     	          z-index:1;
-	          background-color:#F04303;
-}	  	          
+     	          z-index:1;}
+	          	  	          
 
 
 body > div
