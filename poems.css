@@ -29,7 +29,17 @@
 	    margin-left:675px;
 	    position:static;
 	    z-index:1;}
-	          	  	          
+	    
+.generationU  {width:50%;
+               border-radius: 20px;
+               position: static;
+               z-index:1;}
+               
+.life      {width:50%;
+            border-radius: 20px;
+	    margin-left:675px;
+	    position:static;
+	    z-index:1;}	          	  	          
 
 
 body > div
